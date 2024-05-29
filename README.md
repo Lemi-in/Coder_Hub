@@ -23,7 +23,7 @@ Coder Hub is a platform designed for competitive programmers and developers. It 
 ## Installation
 
 ### Prerequisites
-- Node.js (v12 or higher)
+- Node.js 
 - npm (Node package manager)
 - MongoDB (local or cloud instance)
 
